@@ -130,7 +130,7 @@ pip install -r requirements.txt
 
 ## 📖 Original Paper and Resources
 
--   **Paper**: [Hateful Word in Context Classification (EMNLP 2024)](https://arxiv.org/abs/2401.XXXX)
+-   **Paper**: [Hateful Word in Context Classification (EMNLP 2024)](https://aclanthology.org/2024.emnlp-main.10/)
 -   **HateBERT Model**: [GroNLP/hateBERT](https://huggingface.co/GroNLP/hateBERT)
 
 ---
@@ -141,5 +141,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
----
 ```
